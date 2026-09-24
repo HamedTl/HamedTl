@@ -11,7 +11,7 @@
 <a href="https://github.com/HamedTl">
   <img src="https://img.shields.io/badge/GitHub-HamedTl-102A43?style=for-the-badge&logo=github&logoColor=7DD3FC&labelColor=0B1220"/>
 </a>
-<a href="https://linkedin.com/in/hamed-tolouei-4b5109259">
+<a href="https://www.linkedin.com/in/hamedtolouei">
   <img src="https://img.shields.io/badge/LinkedIn-Hamed%20Tolouei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220"/>
 </a>
 <a href="https://ennitto.ir">
