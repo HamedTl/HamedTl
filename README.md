@@ -17,7 +17,6 @@
 <a href="https://ennitto.ir">
   <img src="https://img.shields.io/badge/Portfolio-ennitto.ir-102A43?style=for-the-badge&logo=google-chrome&logoColor=7DD3FC&labelColor=0B1220"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=HamedTl&label=PROFILE+VIEWS&color=7DD3FC&style=for-the-badge&labelColor=0B1220"/>
 
 </div>
 
